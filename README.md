@@ -5,9 +5,9 @@ Context Maps describe the contact between bounded contexts and teams with a coll
 Context Maps can be used to analyze existing systems or application landscapes but they are also suitable for upfront design considerations. However, we have realized that many folks struggle to get started with the context mapping patterns based on the definitions in the exsiting DDD books. This GitHub repository aims to give you some help with context maps with a cheat sheet and a starter kit for Miro.
 
 
- نقشه های context - Context Maps، تماس بین Bounded Contextها و تیم ها را با مجموعه ای از الگوها توصیف می کنند. نه الگوی Context Map و سه رابطه تیمی مختلف وجود دارد. الگوهای Context Map، دیدگاه‌های مختلفی مانند ارائه خدمات، انتشار مدل یا جنبه‌های حکمرانی را توصیف می‌کنند. این تنوع دیدگاه‌ها شما را قادر می‌سازد تا یک دید کلی از روابط تیمی و Bounded Context داشته باشید.
+ نقشه های context - Context Maps، تماس بین Bounded Contextها و تیم ها را با مجموعه ای از الگوها توصیف می کنند. نه الگوی Context Map و سه رابطه تیمی مختلف وجود دارد. الگوهای Context Map، دیدگاه‌های مختلفی مانند ارائه خدمات، انتشار مدل یا جنبه‌های حاکمیت را توصیف می‌کنند. این تنوع دیدگاه‌ها شما را قادر می‌سازد تا یک دید کلی از روابط تیمی و Bounded Context داشته باشید.
 
-نقشه های context - Context Maps را می توان برای تجزیه و تحلیل سیستم های موجود یا منظره های کاربردی استفاده کرد، اما برای ملاحظات طراحی اولیه نیز مناسب هستند. با این حال، ما متوجه شده‌ایم که بسیاری از افراد برای شروع با الگوهای نگاشت زمینه بر اساس تعاریف کتاب‌های DDD موجود تلاش می‌کنند. هدف این مخزن GitHub این است که با Context Maps با یک برگه تقلب و یک کیت شروع برای Miro به شما کمک کند.
+نقشه های context - Context Maps را می توان برای تجزیه و تحلیل سیستم های موجود یا دور نماهای کاربردی استفاده کرد، اما برای ملاحظات طراحی اولیه نیز مناسب هستند. با این حال، ما متوجه شده‌ایم که بسیاری از افراد برای شروع با الگوهای نگاشت زمینه بر اساس تعاریف کتاب‌های DDD موجود تلاش می‌کنند. هدف این مخزن GitHub این است که با Context Maps با یک برگه تقلب و یک کیت شروع برای Miro به شما کمک کند.
 
 ## Context Map Cheat Sheet
 
