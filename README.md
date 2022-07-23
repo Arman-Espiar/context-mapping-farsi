@@ -9,6 +9,7 @@ Context Maps can be used to analyze existing systems or application landscapes b
 Here is a cheat sheet containing brief descriptions of the context mapping patterns:
 
 ![Context Map Cheat Sheet](resources/context-map-cheat-sheet.png)
+![Farsi Context Map Cheat Sheet](resources/context-map-cheat-sheet-farsi.png)
 
 ## Remote Context Mapping Starter Kit for Miro
 
